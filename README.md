@@ -9,3 +9,11 @@ Inspired by @amitness, who has created an incredible log of his learning journey
 My first project, fittingly, is a simple js blogpage, where I will be able to store these musings rather than in a readme on a public document on github
 
 There's a quote along the lines of "people overestimate what they can achieve in a month and underestimate what can be achieved in a year" - this is to remembered
+
+
+## CSS 
+
+| Resource    | Progress    |
+| ----------- | ----------- |
+| Youtube: Tailwind CSS Full Course for Beginners | ⬜ |
+|    | ⬜ |
