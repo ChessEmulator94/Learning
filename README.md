@@ -11,9 +11,25 @@ My first project, fittingly, is a simple js blogpage, where I will be able to st
 There's a quote along the lines of "people overestimate what they can achieve in a month and underestimate what can be achieved in a year" - this is to remembered
 
 
-## CSS 
+### CSS 
 
 | Resource    | Progress    |
 | ----------- | ----------- |
 | Youtube: Tailwind CSS Full Course for Beginners | ⬜ |
 |    | ⬜ |
+
+### UI / UX
+
+| Resource    | Progress    |
+| ----------- | ----------- |
+| Book: The Design of Everyday Things - Don Norman | ⬜ |
+|    | ⬜ |
+
+### Architecture
+
+| Resource    | Progress    |
+| ----------- | ----------- |
+| Book: Clean Architecture - Robert Martin | ⬜ |
+| Book: Service-Oriented Architecture: Concepts, Technology, and Design - Erl Thomas  | ⬜ |
+|    | ⬜ |
+
